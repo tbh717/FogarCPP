@@ -1,0 +1,7 @@
+*.info
+*.hi
+*.o
+Lexer.hs
+Parser.hs
+lexTest.hs
+pete
